@@ -1,0 +1,8 @@
+.filter{
+    display: flex;
+    flex-direction: column;
+    width: 15%; 
+}
+.categories{
+    margin-bottom: 20px;
+}

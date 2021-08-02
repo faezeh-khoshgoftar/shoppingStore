@@ -1,0 +1,17 @@
+.pagehero-container{
+    background-color: rgb(199, 208, 223);
+    width:100%;
+    height:150px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.pagehero{
+    width:80%;
+}
+.pagehero-link{
+    color: rgb(83, 85, 85);
+}
+.pagehero-link:hover{
+    color:black;
+}

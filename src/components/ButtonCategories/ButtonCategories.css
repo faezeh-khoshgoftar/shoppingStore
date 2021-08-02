@@ -1,0 +1,11 @@
+.button-category{
+    border:none;
+    display: flex; 
+    justify-content: flex-start;
+    padding:4px 0;
+    color:rgb(83, 85, 85) ;
+    background-color: white;
+}
+.active{
+    background-color: aquamarine;
+}

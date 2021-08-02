@@ -1,0 +1,32 @@
+.detail{
+    width: 80%;
+    margin:0 auto;
+    padding:5% 0;
+}
+.detail-container{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} 
+.detail-img{
+    height: 550px;
+    width:100%;
+    border-radius: 6px;
+}
+.img-container{
+    width:48%;  
+}
+.detail-Specifications{
+    width:48%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}
+.detail-button{
+    background-color:rgb(199, 208, 223) ;
+    border:none;
+    padding:5px;
+    margin-bottom: 2%;
+    border-radius: 4px;
+}
